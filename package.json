@@ -1,0 +1,12 @@
+{
+  "name": "antigravity-arabic-patch",
+  "version": "1.0.0",
+  "description": "Smart Arabic RTL Patch for Google Antigravity desktop app",
+  "main": "patch.js",
+  "scripts": {
+    "patch": "node patch.js"
+  },
+  "keywords": ["antigravity", "arabic", "rtl", "electron", "bidi"],
+  "author": "hasanamir123",
+  "license": "MIT"
+}
